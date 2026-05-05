@@ -92,10 +92,7 @@ python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --url "https:
 
 ## 🔗 GitHub Repository
 
-(Add your link here after uploading)
-
-Example:
-https://github.com/your-username/it3040-assignment1
+https://github.com/ManushaPamudith/IT23861022_ITPM_Assignment_1.git
 
 ---
 
